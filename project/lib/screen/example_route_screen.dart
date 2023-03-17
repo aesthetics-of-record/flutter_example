@@ -35,7 +35,7 @@ class ExampleRouteScreen extends StatelessWidget {
                   "title": "core",
                   "content": "test",
                   "author": "test",
-                  "id": "test"
+                  "id": "test",
                 },
               );
             },
